@@ -34,18 +34,15 @@ solving problems, and encoding data. The API consists of 20 methods:
 * GitLab Account
 * IDE/Text Editor
 
-Clone this repository locally. You will be added to a subgroup called "core-java-assignment" where each person will have their own repository.
+Clone this repository locally. 
 
 Open a terminal shell or git-scm terminal and clone the repository to your computer using the Git command:
 	
 	git clone https://github.com/[OrganizationName]/[RepositoryName].git
 
-Next, open the project with your preferred text editor or IDE and complete the assignment according to each question's instructions. When you are ready to submit your assignment, add, commit, and push your changes using the git commands:
+Next, open the project with your preferred text editor or IDE and complete the assignment according to each question's instructions. If using IntelliJ, open the project by selecting 'open,' navigating to the 'core-java-assignment' file directory, and selecting the pom.xml file. Your IDE should give you the option to open as a project, select that option.
 
-```
-	git add .
-	git commit -m “Assignment Completed”
-	git push
-```
+
+You will be added to a private subgroup for your work, where you can create a remote repository to submit your completed assignment. Remember, because you cloned this project, the default 'origin' value will point to this repository. You'll want to make sure to change the remote URL to your own remote repository.  When you are ready to submit your assignment, add, commit, and push your changes. 
 
 Be sure not to alter the folder structure, configuration files, or unit tests of the assignment unless specifically told to do so by your trainer. The completed assignment should be pushed to your GitLab repo by the end of the day Monday, Februrary 28, 2022.
