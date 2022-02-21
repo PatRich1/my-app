@@ -42,6 +42,8 @@ Open a terminal shell or git-scm terminal and clone the repository to your compu
 
 Next, open the project with your preferred text editor or IDE and complete the assignment according to each question's instructions. If using IntelliJ, open the project by selecting 'open,' navigating to the 'core-java-assignment' file directory, and selecting the pom.xml file. Your IDE should give you the option to open as a project, select that option.
 
+As you implement solutions, you can verify that your methods are working properly by running the tests in the EvaluationServiceTest class. You can do this, by running the tests individually, or running the entire test class. This is done with the green run arrows beside each test method, and the double green arrow beside the class, respectively.
+
 
 You will be added to a private subgroup for your work, where you can create a remote repository to submit your completed assignment. Remember, because you cloned this project, the default 'origin' value will point to this repository. You'll want to make sure to change the remote URL to your own remote repository.  When you are ready to submit your assignment, add, commit, and push your changes. 
 
